@@ -19,12 +19,13 @@ Me caracterizo por ser un profesional disciplinado y con fácil adaptación al e
 
 ## Comandos _Alias_
 ### Estos son mis alias mas usados
+```bash
+alias cl = 'clear'
+alias npmd = 'npm run dev'
+alias npms = 'npm start'
+alias search = 'ls ~/ | grep $1'
 ```
-- alias cl = 'clear'
-- alias npmd = 'npm run dev'
-- alias npms = 'npm start'
-- alias search = 'ls ~/ | grep $1'
-```
+
 | Comando| Descripción |
 | --------| ----------- |
 | cl | Limpia la terminal |
@@ -34,4 +35,6 @@ Me caracterizo por ser un profesional disciplinado y con fácil adaptación al e
 
 ## comando para clonar repositorio y ejecutarlo
 
-* npx @11ty/eleventy --serve
+```bash
+npx @11ty/eleventy --serve
+```
