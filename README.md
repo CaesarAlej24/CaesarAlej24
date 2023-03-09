@@ -20,10 +20,10 @@ Me caracterizo por ser un profesional disciplinado y con fácil adaptación al e
 ## Comandos _Alias_
 ### Estos son mis alias mas usados
 ```bash
-alias cl = 'clear'
-alias npmd = 'npm run dev'
-alias npms = 'npm start'
-alias search = 'ls ~/ | grep $1'
+cl = 'clear'
+npmd = 'npm run dev'
+npms = 'npm start'
+search = 'ls ~/ | grep $1'
 ```
 
 | Comando| Descripción |
