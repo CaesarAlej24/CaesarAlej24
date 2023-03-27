@@ -1,40 +1,38 @@
->http://localhost:8080/caesara/index.html
-# Hello, I'm Alejandro Gómez,
+Welcome, My name is César Alejandro
+================================================================================================================================
+Software Developer || Web Developer in progress
+-----------------------------------------------
 
-## Desarrollo aplicaciones de software para la industria de seguros.
-Soy **Analista Desarrollador Junior** actualmente viviendo en **Colombia**. Cuento con conocimientos en manejo de herramientas de diseño web como HTML, CSS y en electrónica industrial. Elaboro mantenimiento de aplicativos con el uso de JAVA y Oracle PL/SQL, además de procesos masivos que se ejecutan dentro de los aplicativos.
+Developer for Software applications for the insurance industry.  
+I`m **Junior Developer Analyst**.
 
-Me caracterizo por ser un profesional disciplinado y con fácil adaptación al entono, con habilidades para identificar los requerimientos del cliente de forma analítica, práctica y cumpliendo con los estandares de calidad.
+Desarrollo aplicaciones de software para la industria de seguros.  
+Soy **Analista Desarrollador Junior**. 
+  
+  
+* 🌍  Currently living in Colombia
+* ✉️  You can contact me at [quinterogomezcesaralejandro85@gmail.com](mailto:quinterogomezcesaralejandro85@gmail.com)
+* 🧠  I'm learning HTML, CSS, and JavaScript
 
- 
-| Comando | Descripción                                                              |
-| --------| ------------------------------------------------------------------------ |
-| cp      | Permite copiar archivos dada una ruta inicial y una ruta final           |
-| ls      | Lista los archivos que hay en la carpeta actual                          |
-| mkdir   | Permite crear una carpeta nueva                                          |
-| mv      | Permite mover un archivo o carpeta dada una ruta inicial y una ruta final|
-| pwd     | Print working directory (muestra el directorio actual)                   |
-| rm      | Permite eliminar un archivo dada una ruta                                |
-| touch   | Crea un archivo nuevo dada una ruta y/o nombre                           |
+### Skills  
 
-## Comandos _Alias_
-### Estos son mis alias mas usados
-```bash
-cl = 'clear'
-npmd = 'npm run dev'
-npms = 'npm start'
-search = 'ls ~/ | grep $1'
-```
 
-| Comando| Descripción |
-| --------| ----------- |
-| cl | Limpia la terminal |
-| npmd| Realiza la compilación de los comandos desde el objeto script|
-| npms| Realiza la ejecución del comando start desde el objeto "scripts" de un paquete|
-| search| Permite buscar de acuerdo al filtro que le pasemos como parametro |
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+</p>
 
-## comando para clonar repositorio y ejecutarlo
+I have knowledge in maintenance and development of applications with the use of **JAVA** and **Oracle PL/SQL**, in addition to developing massive processes that are executed within the applications.
 
-```bash
-npx @11ty/eleventy --serve
-```
+Cuento con conocimientos en mantenimiento y elaboración de aplicativos con el uso de **JAVA** y **Oracle PL/SQL**, además de desarrollar procesos masivos que se ejecutan dentro de los aplicativos.
+
+As well as having experience in the maintenance, repair and operation of **mechanical**, **electrical**, **electronic** and **computer components** of industrial processes.
+
+Al igual tengo experiencia en el mantenimiento, reparación y en el funcionamiento de los componentes **mecánicos**, **eléctricos**, **electrónicos** y **computacionales** de los procesos industriales. 
+  
+### Socials
+
+<p align="left"><a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://github.com/CaesarAlej24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+
