@@ -17,12 +17,13 @@ Soy **Analista Desarrollador Junior**.
 ### Skills  
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href=" " target="_blank" rel="noreferrer"><img src="https://github.com/CaesarAlej24/profile-conf/tree/main/public/icons/skills/plsql-svgrepo.svg" width="36" height="36" alt="OraclePlSQL" /></a>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="38" height="36" alt="HTML5"/></a> 
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="36" alt="CSS3" /></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="36" alt="JavaScript"/></a> 
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="43" height="36" alt="NodeJS" /></a> 
+  <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/115849819/228140396-4c31b0aa-a19f-482d-8bec-479943b85f26.svg" width="38" height="38" alt="SQL" /></a> 
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/115849819/228136161-dbcd97fb-616e-4b12-b9ed-3f1c9cbea99f.svg" width="42" height="38" alt="OraclePL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/115849819/228142043-8dd89b9d-1b7b-49cd-ab52-d74f246e1855.svg" width="42" height="38" alt="MySql" /></a>
 </p>
 
 I have knowledge in maintenance and development of applications with the use of **JAVA** and **Oracle PL/SQL**, in addition to developing massive processes that are executed within the applications.
@@ -35,7 +36,9 @@ Al igual tengo experiencia en el mantenimiento, reparación y en el funcionamien
   
 ### Socials
 
-<p align="left"><a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <a href="https://github.com/CaesarAlej24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="38" /></a>
+  <a href="https://github.com/CaesarAlej24" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="38" height="38" /></a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="38" height="38" /></a></p>
 
 ### Badges
 
@@ -44,4 +47,3 @@ Al igual tengo experiencia en el mantenimiento, reparación y en el funcionamien
 <a href="http://www.github.com/CaesarAlej24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CaesarAlej24&stroke=ffffff&background=1c1917&ring=d6d13c&fire=d6d13c&currStreakNum=ffffff&currStreakLabel=d6d13c&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/CaesarAlej24"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CaesarAlej24&bg_color=1c1917&color=ffffff&line=1578d4&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
