@@ -20,8 +20,9 @@ Soy **Analista Desarrollador Junior**.
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="38" height="38" alt="HTML5"/>&nbsp</a> 
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="38" height="38" alt="CSS3" />&nbsp</a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38" alt="JavaScript"/>&nbsp</a> 
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="38" height="38" alt="NodeJS" />&nbsp</a> 
-  <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115849819/228140396-4c31b0aa-a19f-482d-8bec-479943b85f26.svg" width="38" height="38" alt="SQL" />&nbsp</a> 
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="38" height="38" alt="NodeJS" /></a>
+   <a href="https://www.oracle.com/database/technologies/appdev/plsql.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CaesarAlej24/profile-conf/main/public/icons/skills/plsql-svgrepo.svg" width="40" height="38" alt="PLSQL" /></a> 
+  <a href="https://www.oracle.com/database/sqldeveloper/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115849819/228140396-4c31b0aa-a19f-482d-8bec-479943b85f26.svg" width="38" height="38" alt="SQLDeveloper" />&nbsp</a> 
   <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115849819/228136161-dbcd97fb-616e-4b12-b9ed-3f1c9cbea99f.svg" width="38" height="38" alt="OraclePL" />&nbsp</a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/115849819/228142043-8dd89b9d-1b7b-49cd-ab52-d74f246e1855.svg" width="38" height="38" alt="MySql"/>&nbsp</a>
   <a href="https://www.java.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/CaesarAlej24/profile-conf/main/public/icons/skills/java-pl.svg" width="42" height="42" alt="Java"/>&nbsp</a>
@@ -49,4 +50,4 @@ Al igual tengo experiencia en el mantenimiento, reparación y en el funcionamien
 
 <a href="http://www.github.com/CaesarAlej24"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CaesarAlej24&bg_color=1c1917&color=ffffff&line=1578d4&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-https://raw.githubusercontent.com/CaesarAlej24/profile-conf/main/public/icons/skills/java-pl.svg
+https://raw.githubusercontent.com/CaesarAlej24/profile-conf/main/public/icons/skills/plsql-svgrepo.svg
