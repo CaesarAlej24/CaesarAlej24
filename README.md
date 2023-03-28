@@ -49,5 +49,3 @@ Al igual tengo experiencia en el mantenimiento, reparación y en el funcionamien
 <a href="http://www.github.com/CaesarAlej24"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CaesarAlej24&stroke=ffffff&background=1c1917&ring=d6d13c&fire=d6d13c&currStreakNum=ffffff&currStreakLabel=d6d13c&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/CaesarAlej24"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CaesarAlej24&bg_color=1c1917&color=ffffff&line=1578d4&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-https://raw.githubusercontent.com/CaesarAlej24/profile-conf/main/public/icons/skills/plsql-svgrepo.svg
