@@ -38,7 +38,7 @@ Al igual tengo experiencia en el mantenimiento, reparación y en el funcionamien
   
 ### Socials
 
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" />&nbsp;&nbsp</a>
+<p align="left"> <a href="www.linkedin.com/in/cesar-quintero" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" />&nbsp;&nbsp</a>
   <a href="https://github.com/CaesarAlej24" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" />&nbsp;&nbsp</a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="36" height="36" />&nbsp</a></p>
 
