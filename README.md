@@ -4,15 +4,15 @@ Software Developer || Web Developer in progress
 -----------------------------------------------
 
 Developer for Software applications for the insurance industry.  
-I`m **Junior Developer Analyst**.
+I`m **Developer Analyst**.
 
 Desarrollo aplicaciones de software para la industria de seguros.  
-Soy **Analista Desarrollador Junior**. 
+Soy **Analista Desarrollador con más de cinco años de experiencia**. 
   
   
 * 🌍  Currently living in Colombia
 * ✉️  You can contact me at [quinterogomezcesaralejandro85@gmail.com](mailto:quinterogomezcesaralejandro85@gmail.com)
-* 🧠  I'm learning HTML, CSS, and JavaScript
+* 🧠  Knowledge in HTML, CSS, and JavaScript, and others.
 
 ### Skills  
 
